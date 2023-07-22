@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @technical-mindset
-- 👀 I’m interested in Java(Spring Boot) and Dart(Flutter)
-- 🌱 I’m currently learning (Spring Boot)
-- 💞️ I’m looking to collaborate on Flutter and Java projects
-- 📫 How to reach me via email asadzaidi201999@gmail.com
+- 👀 I’m currently working on some different enterprise level products using Java and Reactjs
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on full stack Java projects
+- 📫 How to reach me via LinkedIn (https://www.linkedin.com/in/muhammadasad7/)
 
 <!---
 technical-mindset/technical-mindset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
